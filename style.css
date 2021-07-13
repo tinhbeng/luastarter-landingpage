@@ -301,7 +301,7 @@ ul {
 .partner-logo a {
   padding: 5px 20px;
   background-color: #fff;
-  display: inline-block;
+  display: block;
   min-height: 72px;
   border-radius: 15px;
 }
