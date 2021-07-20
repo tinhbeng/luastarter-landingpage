@@ -326,21 +326,21 @@ ul {
   margin-top: 0;
   margin-bottom: 10px;
   font-size: 24px;
-  color: #fff;
+  color: #1A1A1A;
 }
 .apply .banner h4 {
   font-family: "Roboto", sans-serif;
   margin-bottom: 20px;
   font-size: 32px;
-  color: #fff;
+  color: #1A1A1A;
   line-height: 1.4em;
 }
 .apply .banner a {
   display: inline-block;
   padding: 12px 40px;
-  border: 1px solid #fffcf6;
+  border: 1px solid #1A1A1A;
   border-radius: 24px;
-  color: #fff;
+  color: #1A1A1A;
   text-transform: uppercase;
 }
 .apply .banner .icon-right {
